@@ -1,0 +1,8 @@
+MyPlugin/Binaries/Win64/MyPlugin.pdb	2025-03-27T03:09:24.000Z
+MyPlugin/Binaries/Win64/tbb.pdb	2024-12-15T10:48:52.000Z
+MyPlugin/Binaries/Win64/tbbmalloc.pdb	2024-12-15T10:48:52.000Z
+Engine/Content/SlateDebug/Fonts/LastResort.tps	2024-12-15T10:51:35.002Z
+Engine/Content/SlateDebug/Fonts/LastResort.ttf	2024-12-15T10:51:35.023Z
+Engine/Extras/GPUDumpViewer/GPUDumpViewer.html	2024-12-15T10:52:35.211Z
+Engine/Extras/GPUDumpViewer/OpenGPUDumpViewer.bat	2024-12-15T10:52:35.212Z
+Engine/Extras/GPUDumpViewer/OpenGPUDumpViewer.sh	2024-12-15T10:52:35.214Z

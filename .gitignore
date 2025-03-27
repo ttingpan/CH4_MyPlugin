@@ -72,3 +72,11 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Jetbrain Rider
+Plugins/**/RiderLink/*
+*.DotSettings.user
+.idea/
+
+# 디버그 심볼 제외
+*.pdb
